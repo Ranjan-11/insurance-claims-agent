@@ -1,0 +1,8 @@
+Policy Number: POL1004
+Policyholder Name: Rahul Singh
+Incident Date: 2024-01-20
+Location: Jaipur
+Description: Suspected staged accident, possible fraud
+Estimated Damage: 30000
+Initial Estimate: 28000
+Claim Type: vehicle

@@ -1,0 +1,6 @@
+Policy Number: POL1002
+Policyholder Name: Anita Sharma
+Incident Date: 2024-01-12
+Location: Mumbai
+Description: Accident occurred
+Claim Type: vehicle

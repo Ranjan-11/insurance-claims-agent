@@ -1,0 +1,9 @@
+Policy Number: POL1003
+Policyholder Name: Suresh Verma
+Incident Date: 2024-01-15
+Incident Time: 18:00
+Location: Pune
+Description: Accident with passenger injury
+Estimated Damage: 40000
+Initial Estimate: 38000
+Claim Type: injury
