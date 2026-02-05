@@ -22,9 +22,11 @@ and routes claims for straight-through processing or manual review.
 Located in:
 src/main/resources/data/
 
-- Empty FNOL (PDF)
-- Partial FNOL (PDF/TXT)
-- Complete FNOL (TXT)
+- fnol_1.pdf
+- fnol_2.txt 
+- fnol_3.txt
+- fnol_4.txt
+- fnol_empty.pdf
 
 ## Routing Logic
 - Missing mandatory fields → Manual Review
