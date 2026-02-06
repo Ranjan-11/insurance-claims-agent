@@ -13,7 +13,7 @@ and routes claims for straight-through processing or manual review.
 - Handles empty and partial documents gracefully
 
 ## How to Run
-1. Open project in STS
+1. Open project in STS/IntelliJ Idea
 2. Run InsuranceClaimsAgentApplication
 3. Access:
    http://localhost:8080/claim/process
